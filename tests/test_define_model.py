@@ -20,7 +20,7 @@ class TestDefineModel(unittest.TestCase):
 
         model = define_model.get_pm3_model(xs, hyper_params, verbose=10)
 
-        self.assertIsNone(model, msg="pymc3 model is empty")
+        self.assertIsNotNone(model, msg="pymc3 model is empty")
 
 
 if __name__ == '__main__':
