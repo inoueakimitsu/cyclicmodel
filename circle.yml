@@ -1,0 +1,12 @@
+machine:
+  python:
+    version: 3.5.5
+
+dependencies:
+  override:
+    - python setup.py install
+
+test:
+  override:
+    python setup.py test
+ 
