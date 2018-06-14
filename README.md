@@ -49,7 +49,7 @@ print(np.mean(trace['b_12']))  # from x2 to x1
 
 ## Installation
 ```bash
-pip install
+pip install cyclicmodel
 ```
 
 ## References
