@@ -1,6 +1,5 @@
 # cyclicmodel
 
-[![GitHub license](https://img.shields.io/github/license/inoueakimitsu/cyclicmodel.svg)](https://github.com/inoueakimitsu/cyclicmodel/blob/master/LICENSE)
 [![CircleCI](https://circleci.com/gh/inoueakimitsu/cyclicmodel/tree/master.svg?style=svg)](https://circleci.com/gh/inoueakimitsu/cyclicmodel/tree/master)
 
 
