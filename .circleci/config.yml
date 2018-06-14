@@ -14,6 +14,6 @@ jobs:
     steps:
       - run: apt-get update
       - run: apt-get install -y git python3-h5py python3-pip python3-dev libopenblas-dev
+      - checkout
       - run: python3 setup.py install
       - run: python3 setup.py test
-      
